@@ -2,7 +2,7 @@
 My personal build of: DeskPi RackMate T2 Rackmount - 12U Mini-Rack
 # HomeLab Mini-Rack Project
 
-![DeskPi T2 Rackmount 12U 10" Rack](deskpi_t2.png "Mini-Rack")
+![DeskPi T2 Rackmount 12U 10" Rack](mini_rack_sla.png "Mini-Rack")
 
 ## Project Overview
 This repository documents the development of a compact mini-rack setup designed for Kubernetes (K3s) experimentation, container development, and application testing. As an extension of an existing HomeLab environment (which already includes Proxmox virtualization and NAS storage), this project serves as a dedicated platform for learning container orchestration and developing microservices architectures in a physical form factor.
